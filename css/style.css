@@ -462,6 +462,9 @@ span {
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span {
     width: 88%;
 }
+    .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
+    width: 80%;
+}
 
 .footer {
     display: flex;
